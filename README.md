@@ -8,7 +8,11 @@ will become easier and easier to upgrade to the latest version of Angular.
 
 ## Recipes
 
-* Sample (TBD)
+* ["Chip Away" by Jeff Whelpley](recipes/chipaway_jeffwhelpley.md)
+
+## Common Themes
+
+TBD. In this section we will extract out common themes and best practices from the submitted recipes.
 
 ## FAQs
 
@@ -35,4 +39,8 @@ So, there are tangible short term benefits regardless of your long term goals.
 
 Q: How can I contribute?
 
-A: TBD
+A: In short submit a PR with your strategy. More specifically, follow these steps:
+
+1. Fork the [refactor-angularjs repo](https://github.com/jeffwhelpley/refactor-angularjs)
+2. Clone your fork locally
+3. 
